@@ -1,14 +1,14 @@
 var plugins = [{
-      plugin: require('C:/Source/gatsby-meetup-test/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/Users/brooksztb/Documents/Source/gatsby-meetup-theme-jamstack-denver/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('C:/Source/gatsby-meetup-test/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"JAMstack Denver","short_name":"JAMstack Denver","start_url":"/","background_color":"#F8F9F4","theme_color":"#4A4A4A","display":"minimal-ui","icon":"C:\\Source\\gatsby-meetup-test\\node_modules\\@matthieuauger\\gatsby-theme-meetup/src/images/jamstack-square.png"},
+      plugin: require('/Users/brooksztb/Documents/Source/gatsby-meetup-theme-jamstack-denver/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      options: {"plugins":[],"name":"JAMstack Denver","short_name":"JAMstack Denver","start_url":"/","background_color":"#F8F9F4","theme_color":"#4A4A4A","display":"minimal-ui","icon":"/Users/brooksztb/Documents/Source/gatsby-meetup-theme-jamstack-denver/node_modules/@matthieuauger/gatsby-theme-meetup/src/images/jamstack-square.png"},
     },{
-      plugin: require('C:/Source/gatsby-meetup-test/node_modules/gatsby-plugin-offline/gatsby-ssr'),
+      plugin: require('/Users/brooksztb/Documents/Source/gatsby-meetup-theme-jamstack-denver/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('C:/Source/gatsby-meetup-test/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
+      plugin: require('/Users/brooksztb/Documents/Source/gatsby-meetup-theme-jamstack-denver/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:

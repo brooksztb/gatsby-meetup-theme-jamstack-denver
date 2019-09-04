@@ -1,8 +1,8 @@
 ---
-type: "footer"
+type: 'footer'
 ---
 
-Meetup organized with ️️❤️ by [Matthieu Auger](https://twitter.com/matthieuauger) and [Nicolas Goutay](https://twitter.com/phacks).
+Meetup organized with ️️❤️ by [Nick Teets](https://twitter.com/nicktechs), [Gabe Greenfield](https://twitter.com/GabeGreenfield), [Thomas Randolph](https://twitter.com/rockerest), and [Zach Brooks](https://twitter.com/Zacann0n).
 
 <br />
 
